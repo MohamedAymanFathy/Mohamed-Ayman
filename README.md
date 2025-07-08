@@ -1,1 +1,4 @@
 # Mohamed-Ayman
+I'm a Business Intelligence Analyst with a strong passion for transforming raw data into actionable insights. I specialize in building interactive dashboards and reports that drive strategic decisions across different business domains.
+With hands-on experience in Power BI, SQL, Excel, and Python, I help teams understand their data through clean, well-structured visualizations and clear KPIs. I have worked on various projects involving sales performance analysis, customer behavior tracking, and operational reporting.
+My approach combines both technical expertise and a business mindset — I don’t just present numbers, I tell the story behind them. Whether it's automating reporting pipelines, identifying trends, or designing custom dashboards for stakeholders, I ensure that data becomes a powerful asset, not just a resource.
